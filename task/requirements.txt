@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymysql
+PyPDF2
+sentence-transformers
+faiss-cpu
+xai-sdk
+python-dotenv
+sqlalchemy
